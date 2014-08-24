@@ -1,0 +1,4 @@
+<layers>
+    <layer name="Paragon Plone"
+           interface="paragon.theme.browser.interfaces.IThemeSpecific" />
+</layers>

@@ -1,0 +1,18 @@
+<configure
+    xmlns="http://namespaces.zope.org/zope"
+    xmlns:browser="http://namespaces.zope.org/browser"
+    xmlns:zcml="http://namespaces.zope.org/zcml"
+    i18n_domain="paragon.theme">
+
+    <include package="Products.CMFCore" file="permissions.zcml"/>
+
+  <browser:viewlet
+      for="*"
+      name="paragon.theme.searchbox"
+      manager="plone.app.layout.viewlets.interfaces.IPortalHeader"
+      class="plone.app.layout.viewlets.common.SearchBoxViewlet"
+      template="paragon_searchbox.pt"
+      permission="zope2.View"
+      />
+
+</configure>
