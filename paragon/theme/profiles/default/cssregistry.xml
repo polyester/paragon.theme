@@ -18,10 +18,10 @@
     cookable="False" enabled="True" expression=""
     id="https://netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.min.css"
     media="" rel="stylesheet" rendering="import"/>
-    <stylesheet title="lato" applyPrefix="False" authenticated="False"
+    <stylesheet title="roboto" applyPrefix="False" authenticated="False"
     bundle="" cacheable="False" compression="none" conditionalcomment=""
     cookable="False" enabled="True" expression=""
-    id="https://fonts.googleapis.com/css?family=Lato:100,400,700"
+    id="https://fonts.googleapis.com/css?family=Roboto:300,500"
     media="" rel="stylesheet" rendering="import"/>
 
 </object>

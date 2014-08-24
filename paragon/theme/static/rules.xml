@@ -39,7 +39,7 @@
     <replace css:content="#portal-columns" css:theme="#content" />
 
     <!--doormat-->
-    <replace css:theme="div#doormat div" css:content="div#c-doormat-sitemap" />
+    <!-- <replace css:theme="div#doormat div" css:content="div#c-doormat-sitemap" /> -->
 
     <!--Viewlets-->
     <replace css:content="#portal-personaltools" css:theme="#user" />
